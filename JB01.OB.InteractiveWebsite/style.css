@@ -1,17 +1,19 @@
 
 /* 
 
-title
-description
-your name, date
+CSS file for Interactive Website template
+liver Bush, 11/29/25
 
-additional comments
+Template provided by Janell Baxter
 
 */
 
 body {
   font-family: Arial, sans-serif;
   background-color: #f3f3f3;
+  margin: 0;
+  min-height: 100vh;
+  background-image: linear-gradient(to right,#5d7dcc,#f3f3f3, #5d7dcc);
   text-align: center;
   margin: 0;
   padding: 0;
@@ -19,13 +21,15 @@ body {
 
 /*==========content============== */
 main {
-  size
   padding: 40px;
   margin-left: 50px;
   margin-right: 50px;
   
 }
 
+h1 {
+  text-decoration: underline;
+}
 
 /*==========navigation============== */
 nav {

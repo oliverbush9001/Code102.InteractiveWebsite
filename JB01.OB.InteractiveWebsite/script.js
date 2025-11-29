@@ -2,9 +2,10 @@
 document.addEventListener("DOMContentLoaded", () => {
   // pages as an array
   const pages = [
-    { name: "Home", file: "home.htm", id: "home" },
-    { name: "About", file: "about.htm", id: "about" },
-    { name: "Examples", file: "examples.htm", id: "examples" }
+    { name: "Intro", file: "intro.htm", id: "intro" },
+    { name: "Disconnecting Grades and Worth", file: "disconnectGrades.htm", id: "disconnectGrades" },
+    { name: "What the Data Says", file: "dataSays.htm", id: "dataSays" },
+    { name: "Resources", file: "resources.htm", id: "resources" },
   ];
 
   // navigation section
